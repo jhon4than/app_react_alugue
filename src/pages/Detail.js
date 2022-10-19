@@ -1,12 +1,14 @@
 import React from 'react';
-import { View, Text, Image, TouchableOpacity, StyleSheet } from 'react-native';
-import {Feather, Ionicons} from '@expo/vector-icons';
+import { View, Text, Image, TouchableOpacity, StyleSheet, Button } from 'react-native';
+import { Ionicons} from '@expo/vector-icons';
 import { ScrollView } from 'react-native-gesture-handler';
 import Stars from 'react-native-stars';
+import { useNavigation } from '@react-navigation/native';
 
 import SwiperComponent from '../components/Swiper';
 
 export default function Detail() {
+  const navigation = useNavigation();
  return (
    <View style={styles.container}>
      <View style={styles.swiperContent}>
@@ -63,7 +65,9 @@ export default function Detail() {
         />
       </View>
     </ScrollView>
-
+      <View>
+        <Button title="Selecionar" onPress={() => {navigation.navigate('finalizar')} }></Button>
+      </View>
    </View>
   );
 }

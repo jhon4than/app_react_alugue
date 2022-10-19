@@ -6,6 +6,7 @@ import {TouchableOpacity} from 'react-native';
 
 import Home from './pages/Home'; 
 import Detail from './pages/Detail'; 
+import Finalizar from './pages/Finalizar'; 
 
 const Stack = createStackNavigator();
 
@@ -51,6 +52,17 @@ function Routes(){
               />
             </TouchableOpacity>
           )
+        }}
+
+        />
+        <Stack.Screen 
+        name="finalizar" 
+        component={Finalizar} 
+        options={{
+          title: 'Finalizar Pedido',
+          headerTitleStyle:{
+            fontFamily: 'Montserrat_700Bold'
+          },
         }}
 
         />
