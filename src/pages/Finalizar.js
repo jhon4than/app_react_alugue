@@ -1,8 +1,5 @@
 import React from 'react';
-import { View, Text, Image, TouchableOpacity, StyleSheet } from 'react-native';
-import {Feather, Ionicons} from '@expo/vector-icons';
-import { ScrollView } from 'react-native-gesture-handler';
-import Stars from 'react-native-stars';
+import { View, Text, Image, StyleSheet } from 'react-native';
 
 import RenderCarro from '../components/RenderCarro';
 
