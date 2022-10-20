@@ -1,5 +1,5 @@
 import React from 'react';
-import { View, Text, Image, TouchableOpacity, StyleSheet, Button } from 'react-native';
+import { View, Text, Image, StyleSheet, Button } from 'react-native';
 import { Ionicons} from '@expo/vector-icons';
 import { ScrollView } from 'react-native-gesture-handler';
 import Stars from 'react-native-stars';

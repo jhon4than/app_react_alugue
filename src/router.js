@@ -7,6 +7,7 @@ import {TouchableOpacity} from 'react-native';
 import Home from './pages/Home'; 
 import Detail from './pages/Detail'; 
 import Finalizar from './pages/Finalizar'; 
+import Agradecimento from './pages/Agradecimento';
 
 const Stack = createStackNavigator();
 
@@ -18,7 +19,7 @@ function Routes(){
         name="home" 
         component={Home} 
         options={{
-          title: 'Alugue ou Compre',
+          title: 'Alugue',
           headerTitleStyle:{
             fontFamily: 'Montserrat_700Bold'
           },
@@ -59,7 +60,18 @@ function Routes(){
         name="finalizar" 
         component={Finalizar} 
         options={{
-          title: 'Finalizar Pedido',
+          title: 'Finalizar Agendamento',
+          headerTitleStyle:{
+            fontFamily: 'Montserrat_700Bold'
+          },
+        }}
+
+        />
+        <Stack.Screen 
+        name="agradecimento" 
+        component={Agradecimento} 
+        options={{
+          title: 'Obrigado pela preferência!',
           headerTitleStyle:{
             fontFamily: 'Montserrat_700Bold'
           },
