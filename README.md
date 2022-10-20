@@ -1,6 +1,6 @@
 # Projeto Alugue
 # Start Projeto
-npm install
+npm install,
 expo start
 # Tela inicial da aplicação
 Usuário Poderá visualizar novidades de carros 
