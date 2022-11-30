@@ -2,6 +2,8 @@
 # Start Projeto
 npm install,
 expo start
+# Link do Expo
+-> https://snack.expo.dev/@jhon4than/trabalho-final?platform=web
 # Tela inicial da aplicação
 Usuário Poderá visualizar novidades de carros 
 Carros próximos a ele
