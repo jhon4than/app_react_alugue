@@ -47,14 +47,11 @@ As fotos estão todas abaixo
 ![Captura de tela de 2022-11-30 01-24-33](https://user-images.githubusercontent.com/44447117/204707403-85adea9e-5890-4ec9-9d74-62b7583579c4.png)
 ![Captura de tela de 2022-11-30 01-24-39](https://user-images.githubusercontent.com/44447117/204707405-5443fbb7-65d7-40e2-9c48-2be807b38b85.png)
 ![Captura de tela de 2022-11-30 01-24-44](https://user-images.githubusercontent.com/44447117/204707408-2aa988e2-1a0c-4066-9eae-310a87c1569b.png)
-
-![Captura de tela de 2022-11-30 01-30-00](https://user-images.githubusercontent.com/44447117/204707920-210eaaf2-f88f-4e34-85b8-86b3b9fa4ad0.png)
-![Captura de tela de 2022-11-30 01-30-26](https://user-images.githubusercontent.com/44447117/204707925-aeffc663-f6ac-4775-a356-31027bbd9ef7.png)
-
 ![WhatsApp Image 2022-11-30 at 01 52 15](https://user-images.githubusercontent.com/44447117/204710568-1e9b8df0-89ea-4045-82a3-59aa60c5a740.jpeg)
 ![WhatsApp Image 2022-11-30 at 01 52 14](https://user-images.githubusercontent.com/44447117/204710572-d4bcd50e-fe31-4efc-829e-73ee0f0a77e9.jpeg)
 
-
+![Captura de tela de 2022-11-30 01-30-00](https://user-images.githubusercontent.com/44447117/204707920-210eaaf2-f88f-4e34-85b8-86b3b9fa4ad0.png)
+![Captura de tela de 2022-11-30 01-30-26](https://user-images.githubusercontent.com/44447117/204707925-aeffc663-f6ac-4775-a356-31027bbd9ef7.png)
 
 # Telas Atigas
 
