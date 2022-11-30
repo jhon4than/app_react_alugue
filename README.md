@@ -1,6 +1,13 @@
 # Projeto Alugue
 # Jhonathan Meireles de Oliveira
 # Camilo Clemente dos Reis Silva
+
+# Trabalho Final de Desenvolvimento Móvel
+Link do Expo, onde se encontra a aplicação Atual Atualizada com as novas funcionalidades
+ExpoLink: https://snack.expo.dev/@jhon4than/trabalho-final?platform=web
+Link do Vídeo no Youtube demonstrando todas as pastas do sistema, documentação, telas, sistema rodando, autenticação, tudo que foi imposto para fazer no trabalho.
+Youtube link: https://youtu.be/iNsDSE_BB04
+
 # Start Projeto
 npm install,
 expo start
