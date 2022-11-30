@@ -1,4 +1,6 @@
 # Projeto Alugue
+# Jhonathan Meireles de Oliveira
+# Camilo Clemente dos Reis Silva
 # Start Projeto
 npm install,
 expo start
